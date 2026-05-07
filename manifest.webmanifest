@@ -1,0 +1,19 @@
+{
+  "name": "Estudio Arte",
+  "short_name": "Estudio",
+  "description": "Un estudio de dibujo local con capas, pinceles, stickers, animacion y galeria.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a1a1f",
+  "theme_color": "#7c6af7",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
